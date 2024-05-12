@@ -1,0 +1,21 @@
+{
+  "name": "teast-by-hadi",
+  "version": "1.4.0",
+  "main": "mains.js",
+  "type": "module",
+  "bin":"main.ts",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
